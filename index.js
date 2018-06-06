@@ -9,4 +9,4 @@ function setBestCustomer() {
   var bestCustomer = 'not bob';
 }
 
-bestCustomer()
+bestCustomer('not bob')
